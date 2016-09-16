@@ -1,0 +1,17 @@
+.idea/**/*
+.idea/*
+*.iml
+*.ipr
+*.iws
+*.log
+target/**/*
+target/*
+target
+log
+.settings
+.project
+.classpath
+.springBeans
+bin
+/.idea
+.DS_Store
