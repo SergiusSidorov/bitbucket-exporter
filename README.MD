@@ -1,5 +1,7 @@
 # Simple utility for exporting repositories from Bitbucket Server (Stash)
 
+Current version #1.0.0 can be downloaded from: https://bitbucket.org/Sergiuss/bitbucket-exporter/downloads/bitbucket-exporter.jar
+
 ## Usage
 
 java -jar bitbucket-exporter.jar --user=[user_name] --pass=[password] --host=[bitbucket_host]
