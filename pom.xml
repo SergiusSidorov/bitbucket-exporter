@@ -3,9 +3,43 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+    <name>Bitbucket Exporter</name>
+
+    <description>Simple utility for exporting repositories from Bitbucket Server (Stash)</description>
+
     <groupId>com.sergius</groupId>
     <artifactId>bitbucket-exporter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
+    <url>https://github.com/SergiusSidorov/bitbucket-exporter</url>
+
+    <issueManagement>
+        <url>https://github.com/SergiusSidorov/bitbucket-exporter/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE Version 3</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/SergiusSidorov/bitbucket-exporter</url>
+        <connection>scm:git:git://github.com:SergiusSidorov/bitbucket-exporter.git</connection>
+        <developerConnection>scm:git:git@github.com:SergiusSidorov/bitbucket-exporter.git</developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <email>sergius.sidorov@gmail.com</email>
+            <name>Sergej Sidorov</name>
+            <url>https://github.com/SergiusSidorov</url>
+            <id>SergiusSidorov</id>
+        </developer>
+    </developers>
 
     <properties>
         <java.version>1.8</java.version>
